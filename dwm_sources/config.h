@@ -20,7 +20,7 @@ static const char *tags[] = { "1//ltrm", "2//rtrm", "3//monit", "4//dev", "5//ww
 static const Rule rules[] = {
 	/* class      instance    title       tags mask     isfloating   monitor */
 	{ "Gimp",       NULL,     NULL,       0,            True,        -1 },
-	{ "Iceweasel",  NULL,     NULL,       1 << 4,       False,       -1 },
+	{ "Firefox",  NULL,     NULL,       1 << 4,       False,       -1 },
     { "Claws-mail", NULL,     NULL,       1 << 5,       True,        -1 },
     { "Skype",      NULL,     NULL,       0,            True,        -1 },
     { "Tilda",      NULL,     NULL,       0,            True,        -1 },
