@@ -1,7 +1,5 @@
-# suckless-dwm-5.9
+# jaypz-dwm-5.9
 
-http://dwm.suckless.org/
+This is my personal configuration for suckless dwm-5.9, please check out dwm window manager at http://dwm.suckless.org/
 
-My config for suckless dwm-5.9 with a few patches applied.
-
-Thanks to suckless.org for providing an incredibly portable window manager.
+Thank you suckless.org for providing an incredibly portable window manager.
